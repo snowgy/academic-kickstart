@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "yvetteyue1998@outlook.com"
+  link: "mailto:yvetteyue1998@outlook.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/snowgy
@@ -46,7 +46,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: static/files/CV.pdf
+  link: `static/files/CV.pdf`
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -59,4 +59,5 @@ user_groups:
 ---
 
 Yue Gong is a senior student of Southern University of Science and Technology majoring in Computer Science. As an undergraduate, her research interest lies in database system including query processing, query optimization and data integration. The goal of her PhD. is to build systems which can solve real world problems(which are difficult for industry to solve) and make impact to the community.
-During her undergraduate, Yue is a member of database group in SUSTech under the supervision of Prof.(Bo Tang)[https://acm.sustech.edu.cn/btang/]. 
+
+During her undergraduate, Yue is a member of database group in SUSTech under the supervision of Prof.[Bo Tang](https://acm.sustech.edu.cn/btang/). 

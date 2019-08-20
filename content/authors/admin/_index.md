@@ -58,6 +58,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yue Gong is a senior student of Southern University of Science and Technology majoring in Computer Science. As an undergraduate, her research interest lies in database system including query processing, query optimization and data integration. The goal of her PhD. is to build systems which can solve real world problems(which are difficult for industry to solve) and make impact to the community.
+During her undergraduate, Yue is a member of database group in SUSTech under the supervision of Prof.(Bo Tang)[https://acm.sustech.edu.cn/btang/]. 

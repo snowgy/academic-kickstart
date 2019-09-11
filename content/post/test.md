@@ -11,5 +11,6 @@ links:
     icon: medium
     name: Originally published on Medium
     url: 'https://medium.com'
+url_pdf = ""
 ---
 

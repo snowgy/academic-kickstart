@@ -11,15 +11,7 @@ links:
     icon: medium
     name: Originally published on Medium
     url: 'https://medium.com'
+# Links
+url_pdf = "http://stacks.iop.org/1674-1056/24/i=7/a=070201"
 ---
 
-# Links (optional).
-url_pdf = "files/CV.pdf"
-#url_preprint = ""
-#url_code = ""
-#url_dataset = ""
-#url_project = ""
-#url_slides = ""url_pdf: "files/CV.pdf"
-#url_video = ""
-#url_poster = ""
-#url_source = ""
